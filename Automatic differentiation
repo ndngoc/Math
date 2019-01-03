@@ -1,0 +1,4 @@
+Automatic differentiation is not:
+  Symbolic differentiation, nor
+  Numerical differentiation (the method of finite differences)
+ 
